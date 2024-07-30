@@ -51,7 +51,7 @@ This is a basic calculator application built using PyQt5. It includes functional
 - `.`: Decimal point
 - `Enter`: Calculate result
 - `Backspace`: Remove last character
-- `C`: Clear input
+- `ESC`: Clear input
 
 ## How It Works
 
