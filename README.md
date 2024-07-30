@@ -1,4 +1,3 @@
-```markdown
 # Basic Calculator Application
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -163,6 +162,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 > ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 > ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.4-green)
 > ![License](https://img.shields.io/badge/License-MIT-yellow)
-```
 
-Replace `your-username` with your actual GitHub username before using this README. Feel free to adjust any section to better fit your project's specifics.
